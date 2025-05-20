@@ -80,7 +80,7 @@ Parameter B: -0.10634 ± 0.00213
 
 * `Random_walk.py` – Main simulation and analysis script.
 * `README.md` – This file.
-* `docs/` – (Optional) Folder for example plots, images, or further documentation.
+* `docs/` – Folder for example plots, images, or further documentation.
 
 ---
 
