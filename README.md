@@ -106,8 +106,5 @@ Paweł G. Pełka
 
 ---
 
-## Contact / Issues
 
-For bug reports or feature requests, please open an [issue](https://github.com/YOURNAME/random-walk-simulation/issues) on GitHub.
 
----
