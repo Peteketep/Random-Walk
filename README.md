@@ -89,7 +89,7 @@ Parameter B: -0.10634 ± 0.00213
 * Code is modular: you can easily add new types of random walks, extra analyses, or output formats.
 * To cite this software in academic work, use (example):
 
-  > Pełka, P. G. (2025). Random Walk Simulation (Version 1.0) \[Software]. [https://github.com/YOURNAME/random-walk-simulation](https://github.com/YOURNAME/random-walk-simulation)
+  > Pełka, P. G. (2025). Random Walk Simulation (2D/3D, Python) (Version 1.0) \[Software]. [https://github.com/Peteketep/Random-Walk-Simulation-2D-3D-Python-](https://github.com/Peteketep/Random-Walk-Simulation-2D-3D-Python-)
 
 ---
 
